@@ -1,0 +1,8 @@
+Data types:
+refers to different values that can be represented and manipulated using a programming language.
+
+Primitive data types are:
+Numbers, Strings and Boolean
+
+Trivial data types: null and undefined, each represent single value.
+
