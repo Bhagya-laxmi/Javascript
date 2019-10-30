@@ -17,3 +17,6 @@ the variable name must start with alphabet or _.
 The available operators:
   Arithmetic, Comparator, Logical, Bitwise, Assignment, miscellaneous: condition operator, typeof operators
 Typeof operator: unary operator and returns the data type of the operand.
+
+void function:
+Does not return anything. void can be used to generate undefined values. example: a = void();
