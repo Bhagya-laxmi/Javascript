@@ -6,3 +6,14 @@ Numbers, Strings and Boolean
 
 Trivial data types: null and undefined, each represent single value.
 
+Javacript variable: declare it as "var".
+Javacript is an untyped language. variable can hold data of any data type.during declaration, the type of the value the variable holds need not be mentioned. the type of the value can change at runtime and it will be taken care by the script.
+
+Variable Scope:
+  Global and local. within the body of the function, thr local variable takes precedence over the global
+  
+the variable name must start with alphabet or _.
+
+The available operators:
+  Arithmetic, Comparator, Logical, Bitwise, Assignment, miscellaneous: condition operator, typeof operators
+Typeof operator: unary operator and returns the data type of the operand.
