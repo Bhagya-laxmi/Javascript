@@ -1,0 +1,6 @@
+A programming is called OOP language if the following characteristics are exhibited:
+  Encapsulation: ability to store related information like data or methods together in an object.
+  Aggregation: Store one object inside another
+  Inheritance: capability to relay on another class for some of its properties and methods.
+  polymorphism: the capability to write one function or method in many ways.
+  
