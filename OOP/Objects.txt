@@ -4,3 +4,8 @@ A programming is called OOP language if the following characteristics are exhibi
   Inheritance: capability to relay on another class for some of its properties and methods.
   polymorphism: the capability to write one function or method in many ways.
   
+ Methods are the functions that let the object do something or let something be done to it. There is a small difference between a function and a method – at a function is a standalone unit of statements and a method is attached to an object and can be referenced by the this keyword.
+ 
+ The new operator is used to create an instance of an object. 
+ 
+ A constructor is a function that creates and initializes an object.
