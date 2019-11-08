@@ -1,0 +1,5 @@
+there are three kinds of errors: (1) Syntax error (2) Runtime errors (3)Logical errors.
+
+(1) Syntax errors: also called parsing errors which occur at compile time in traditional programming languages and in interpret time in javascript
+(2) Runtime errors: also called execution errors
+(3) Logical errors: these errors are due to the mistakes in logic which results in an undesired result
